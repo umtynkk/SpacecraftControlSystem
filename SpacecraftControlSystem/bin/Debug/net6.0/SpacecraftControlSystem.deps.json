@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SpacecraftControlSystem/1.0.0": {
+        "runtime": {
+          "SpacecraftControlSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpacecraftControlSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

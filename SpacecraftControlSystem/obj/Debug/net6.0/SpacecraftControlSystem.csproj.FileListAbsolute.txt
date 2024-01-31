@@ -1,0 +1,15 @@
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\bin\Debug\net6.0\SpacecraftControlSystem.exe
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\bin\Debug\net6.0\SpacecraftControlSystem.deps.json
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\bin\Debug\net6.0\SpacecraftControlSystem.runtimeconfig.json
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\bin\Debug\net6.0\SpacecraftControlSystem.dll
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\bin\Debug\net6.0\SpacecraftControlSystem.pdb
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.csproj.AssemblyReference.cache
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.AssemblyInfoInputs.cache
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.AssemblyInfo.cs
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.dll
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\refint\SpacecraftControlSystem.dll
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.pdb
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\SpacecraftControlSystem.genruntimeconfig.cache
+C:\Users\ileti\OneDrive\Desktop\SpacecraftControlSystem\SpacecraftControlSystem\SpacecraftControlSystem\obj\Debug\net6.0\ref\SpacecraftControlSystem.dll
